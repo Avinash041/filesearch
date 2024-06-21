@@ -7,6 +7,4 @@ cd filesearch/
 make
 
 # Steps to run
-./find
-
-abc.txt ./
+./find abc.txt ./
